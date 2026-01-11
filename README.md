@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏋️ FitTech AI
+# 🏋️ XGFitness
 
 ### **Advanced Fitness Recommendation System with Machine Learning**
 
